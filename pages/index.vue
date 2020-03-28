@@ -35,6 +35,7 @@
 
 <script>
 import Card from '~/components/Card'
+import { database } from '~/plugins/firebase'
 
 export default {
   name: 'HomePage',
